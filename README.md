@@ -3,7 +3,7 @@
 Nosso projeto é uma página que apresenta informações de uma imobiliária.
 
 Essa página está dividida em 6 ações. Cada seção possui um tipo de informação sobre a imobiliária.
-
+![20](https://user-images.githubusercontent.com/106616102/177881395-dfacce52-e42c-4ed2-abb0-afc65cdf39c0.jpg)
 
 Primeira seção / logotipo e links da imobiliária.
 ![8](https://user-images.githubusercontent.com/106616102/177879410-e7c116b5-8010-47a4-b191-2012e41aa83f.jpg)
